@@ -1,0 +1,14 @@
+## Visual Studio files
+.vs/
+*.user
+
+## Build output
+**/bin/
+**/obj/
+
+## Secrets - NEVER commit these
+appsettings.Development.json
+
+## OS files
+.DS_Store
+Thumbs.db
